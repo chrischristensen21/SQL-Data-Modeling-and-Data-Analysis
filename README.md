@@ -2,7 +2,7 @@
 
 ## Overview
 
-The first part of this project was to take six CSV's containing a company's employee information and use it create an Entity Relationship Diagram (ERD). The second part was to then import the CSV's into a SQL database and query the database to analyze and answer some questions about various company and employee information. 
+The first part of this project was to take six CSV's containing a company's employee information and use it create an Entity Relationship Diagram (ERD). The second part was to then import the CSV's into a SQL database and query the database to analyze and answer various questions regarding company and employee information. 
 
 #### Data Modeling
 
