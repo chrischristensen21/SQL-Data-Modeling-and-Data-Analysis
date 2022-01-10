@@ -10,7 +10,7 @@ An ERD was created using http://www.quickdatabasediagrams.com to visualize any r
 
 #### Data Analysis
 
-Using pgAdmin a table for each CSV was created and imported into a SQL Database. The following queries were performed:
+Using pgAdmin, a table for each CSV was created and imported into a SQL Database. The following queries were performed:
 
 1. Details of each employee (employee number, last name, first name, sex, and salary).
 
