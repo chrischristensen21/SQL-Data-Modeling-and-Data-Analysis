@@ -44,11 +44,10 @@ The following queries were then performed in the database:
 ![Query 8](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%208.png)
 
 ---
-**Contact:**
 
-**Chris Christensen**
+#### Chris Christensen
 
-**Email: chrischristensen21@gmail.com**
+**Email:** chrischristensen21@gmail.com
 
 
 
