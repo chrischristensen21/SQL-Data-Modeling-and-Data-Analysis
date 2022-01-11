@@ -2,7 +2,7 @@
 
 ## Overview
 
-The first part of this project was to take six CSV's containing a company's employee information and use it create an Entity Relationship Diagram (ERD). The second part was to then import the CSV's into a SQL database and query the database to analyze and answer some questions about various company and employee information. 
+The first part of this project was to take six CSV's containing a company's employee information and use it create an Entity Relationship Diagram (ERD). The second part was to then import the CSV's into a SQL database and query the database to analyze and answer various questions regarding company and employee information. 
 
 #### Data Modeling
 
@@ -10,7 +10,7 @@ An ERD was created using http://www.quickdatabasediagrams.com to visualize any r
 
 #### Data Analysis
 
-Using pgAdmin a table for each CSV was created and imported into a SQL Database. The following queries were performed:
+Using pgAdmin, a table for each CSV was created and imported into a SQL Database. The following queries were performed:
 
 1. Details of each employee (employee number, last name, first name, sex, and salary).
 
