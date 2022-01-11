@@ -11,7 +11,7 @@ An ERD was created using http://www.quickdatabasediagrams.com to visualize any r
 ![ERD](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/ERD.png)
 
 #### SQL Create Table and Data Import
-Using pgAdmin, Six Tables were created in a SQL Database corresponding to the six CSV's. The data contained in the CSV's were then imported into the tables as shown in the SQL schema:
+Using pgAdmin, Six Tables were created in a SQL Database corresponding to the six CSV's provided with the employee information. The data contained in the CSV's were then imported into the database as shown in the SQL schema:
 ![Schema 1](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Schema%201.png)
 ![Schema 2](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Schema%202.png)
 
