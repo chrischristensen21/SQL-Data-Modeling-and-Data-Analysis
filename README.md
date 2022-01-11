@@ -42,3 +42,13 @@ The following queries were then performed in the database:
 
 8. The number of employees who share the same last name listed in descending order.
 ![Query 8](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%208.png)
+
+---
+**Contact:**
+
+**Chris Christensen**
+
+**Email: chrischristensen21@gmail.com**
+
+
+
