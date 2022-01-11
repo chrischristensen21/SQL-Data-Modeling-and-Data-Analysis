@@ -20,17 +20,25 @@ Using pgAdmin, Six Tables were created in a SQL Database corresponding to the si
 The following queries were then performed in the database:
 
 1. Details of each employee (employee number, last name, first name, sex, and salary).
+![Query 1](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%201.png)
 
 2. The first name, last name, and hire date for employees who were hired in 1986.
+![Query 2](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%202.png)
 
 3. The manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+![Query 3](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%203.png)
 
 4. The department of each employee with the following information: employee number, last name, first name, and department name.
+![Query 4](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%204.png)
 
 5. The first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+![Query 5](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%205.png)
 
 6. All employees in the Sales department, including their employee number, last name, first name, and department name.
+![Query 6](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%206.png)
 
 7. All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+![Query 7](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%207.png)
 
 8. The number of employees who share the same last name listed in descending order.
+![Query 8](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/Query%208.png)
