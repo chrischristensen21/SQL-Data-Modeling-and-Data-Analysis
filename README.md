@@ -4,6 +4,8 @@
 
 The first part of this project was to take six CSV's containing a company's employee information and use it create an Entity Relationship Diagram (ERD). The second part was to then import the CSV's into a SQL database and query the database to analyze and answer various questions regarding company and employee information. 
 
+![ERD](https://github.com/chrischristensen21/SQL-Data-Modeling-and-Data-Analysis/blob/main/Images/ERD.png)
+
 #### Data Modeling
 
 An ERD was created using http://www.quickdatabasediagrams.com to visualize any relationships among the CSV's and an image of the diagram was saved to the repository as "ERD.png".
